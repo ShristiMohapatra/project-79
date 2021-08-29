@@ -92,7 +92,7 @@ body{
 	line-height: 20px;
 	width: 80%;
 	height: 50px;
-	color: #ffffff;
+	color: #3f0707;
     background: none;
     border: none;
     border-bottom: 1px solid rgb(223, 205, 205);
@@ -103,7 +103,7 @@ body{
     transition: text-indent 0.4s 0.4s ease; 
     text-indent: -100%;
 	opacity: 1;
-	color: white;
+	color: rgb(235, 18, 18);
  }
 
 #im1{
